@@ -1,0 +1,21 @@
+package com.example.demo;
+
+import org.springframework.batch.core.Job;
+import org.springframework.batch.core.configuration.JobFactory;
+import org.springframework.batch.core.job.builder.JobBuilder;
+import org.springframework.batch.core.step.builder.JobStepBuilder;
+import org.springframework.batch.core.step.builder.StepBuilder;
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class SpringBatchLearnings1 {
+	@Autowired
+	private JobBuilderFactory jobs;
+	@Autowired
+	private StepBuilder steps;
+	
+	public Job firstJob() {
+		return jobs.
+	}
+	
+
+}

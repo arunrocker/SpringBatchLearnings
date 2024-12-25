@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.EnableBatchProcessing"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.step.builder.JobStepBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.step.builder.StepBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.job.builder.JobBuilder"/>
+</qualifiedTypeNameHistroy>
