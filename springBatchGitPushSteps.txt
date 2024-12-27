@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/arunrocker/SpringBatchLearnings.git
+New Branch: git checkout -b Day2
+git add .
+git commit -m "Spring Batch Listener Learnings"
+git push origin Day2
